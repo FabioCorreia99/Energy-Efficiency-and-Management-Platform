@@ -1,0 +1,1 @@
+import{_ as o,a as r,e,o as s}from"./index-g7Qn_UOI.js";const n={};function a(p,t,l,c,u,d){return s(),r("div",null,t[0]||(t[0]=[e("h1",null,"Reports",-1),e("p",null,"This is the Reports view.",-1),e("p",null,"Here you can add your reports-related content.",-1)]))}const _=o(n,[["render",a]]);export{_ as default};

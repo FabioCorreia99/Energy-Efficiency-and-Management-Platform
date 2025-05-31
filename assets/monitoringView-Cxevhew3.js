@@ -1,0 +1,1 @@
+import{_ as n,a as t,e,o as r}from"./index-g7Qn_UOI.js";const a={};function l(s,o,c,i,u,p){return r(),t("div",null,o[0]||(o[0]=[e("h1",null,"Resource Allocation",-1),e("p",null,"This is the Resource Allocation view.",-1),e("p",null,"Here you can add your resource allocation-related content.",-1)]))}const _=n(a,[["render",l]]);export{_ as default};
