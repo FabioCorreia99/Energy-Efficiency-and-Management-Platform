@@ -24,13 +24,7 @@ app.use(compression()); // Compress responses with gzip
 
 // app.use(cookieParser());
 
-app.use(cors({
-    origin: 'http://localhost:5173', // Allow all origins (for development purposes only, restrict in production)
-    credentials: true, // Allow cookies to be sent with requests
-    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
-    //exposedHeaders: ['Content-Encoding']
-}));
+
 
 app.use(express.json());
 
